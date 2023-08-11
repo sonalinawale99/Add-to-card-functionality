@@ -1,0 +1,55 @@
+.cardlist{
+    display: flex;
+    justify-content:space-evenly;
+    width:30%
+}
+table,th,th,td{
+    background-color:bisque;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.productCard{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 40px;
+}
+
+#tablestyle{
+    height: 300px;
+    width: 320px;
+}
+
+#liststyle{
+height: 500px;
+width: 400px;
+text-align:right;
+font-size: 18px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+#productName{
+    text-align: left;
+}
+
+.cardstyle{
+    text-align: left;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+button.btn{
+    word-spacing: -15px;    
+    background-color:darkgray;
+    border: 1px solid;
+    color: black;
+    
+}
+
+#footer{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
